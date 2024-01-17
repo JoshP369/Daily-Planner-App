@@ -22,9 +22,10 @@ As an employee with a busy schedule, I want to add important events to a daily p
 
 ## Webpage Screenshot
 ![Alt text](assets/images/Work-Day-Scheduler.png)
+
 ## Live Demo
-- A live version of the results can be accessed here: 
-[Live Link]()
+- A live version of the planner can be accessed here: 
+[Live Link](https://joshp369.github.io/Daily-Planner-App/)
 
 ## Technologies Used
 * HTML
